@@ -1,6 +1,6 @@
-# ¡Hola! Soy Tiziano Perone 👋
+# ¡Hola! Soy Tiziano Perone. 👋
 
-Estudiante avanzado de **Licenciatura en Sistemas de Información (FaCENA - UNNE)**, finalizando el título intermedio de **Analista Programador Universitario (APU)** en Corrientes, Argentina.
+Estudiante avanzado de **Licenciatura en Sistemas de Información (FaCENA - UNNE)**, finalizando el título intermedio de **Analista Programador Universitario (APU)**.
 
 Me enfoco en el desarrollo de software estructurado y mantenible, con sólida base en algoritmos, paradigmas de programación, ingeniería de software y diseño de bases de datos relacionales.
 
