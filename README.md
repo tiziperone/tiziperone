@@ -1,4 +1,4 @@
-# ¡Hola! Soy Tiziano Perone. 👋
+# ¡Hola! Soy Tiziano. 👋
 
 Estudiante avanzado de **Licenciatura en Sistemas de Información (FaCENA - UNNE)**, finalizando el título intermedio de **Analista Programador Universitario (APU)**.
 
