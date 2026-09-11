@@ -8,7 +8,7 @@ Me enfoco en el desarrollo de software estructurado y mantenible, con sólida ba
 
 ### 💻 Stack & Tecnologías
 
-* **Lenguajes:** C#, Java, C, SQL, Python JavaScript / Blade.
+* **Lenguajes:** C#, Java, C, SQL, Python, Lisp, JavaScript / Blade.
 * **Bases de Datos:** PostgreSQL, MySQL, diseño y normalización de esquemas relacionales.
 * **Arquitectura & Metodologías:** Programación Orientada a Objetos (POO), patrones de diseño, control de versiones con Git/GitHub y trabajo en equipo.
 * **Fundamentos de Ciencias de la Computación:** Algoritmos y estructuras de datos, sistemas operativos, paradigmas funcional (Lisp) y bajo nivel (Assembler).
