@@ -1,6 +1,6 @@
 # ¡Hola! Soy Tiziano. 👋
 
-Estudiante avanzado de **Licenciatura en Sistemas de Información (FaCENA - UNNE)**, finalizando el título intermedio de **Analista Programador Universitario (APU)**.
+Estudiante avanzado de **Licenciatura en Sistemas de Información (FaCENA - UNNE)**, finalizando el título intermedio de **Analista Programador Universitario**.
 
 Me enfoco en el desarrollo de software estructurado y mantenible, con sólida base en algoritmos, paradigmas de programación, ingeniería de software y diseño de bases de datos relacionales.
 
