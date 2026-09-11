@@ -27,5 +27,5 @@ Me enfoco en el desarrollo de software estructurado y mantenible, con sólida ba
 ### 📫 Conectemos
 
 * **Ubicación:** Corrientes, Argentina
-* **LinkedIn:** [linkedin.com/in/tiziano-perone)
+* **LinkedIn:** linkedin.com/in/tiziano-perone
 * **Contacto:** tiziperonetobias@gmail.com (correo disponible en el perfil)
