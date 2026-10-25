@@ -8,11 +8,11 @@ Me enfoco en el desarrollo de software estructurado y mantenible, con sólida ba
 
 ### 💻 Stack & Tecnologías
 
-* **Lenguajes:** C#, Java, C, SQL, Python, Lisp, JavaScript / Blade.
-* **Bases de Datos:** PostgreSQL, MySQL, diseño y normalización de esquemas relacionales.
-* **Arquitectura & Metodologías:** Programación Orientada a Objetos (POO), patrones de diseño, control de versiones con Git/GitHub y trabajo en equipo.
+* **Lenguajes:** Java, C, SQL, Python, Lisp.
+* **Bases de Datos:** SQL, diseño y normalización de esquemas relacionales.
+* **Arquitectura & Metodologías:** Programación Orientada a Objetos (POO), patrones de diseño y trabajo en equipo.
 * **Fundamentos de Ciencias de la Computación:** Algoritmos y estructuras de datos, sistemas operativos, paradigmas funcional (Lisp) y bajo nivel (Assembler).
-* **Redes & Telecomunicaciones:** Comunicación de datos, modelo OSI/TCP-IP, protocolos de transporte y arquitectura cliente-servidor.
+* **Redes & Telecomunicaciones:** Comunicación de datos, protocolos de transporte y arquitectura cliente-servidor.
 
 ---
 
@@ -21,6 +21,7 @@ Me enfoco en el desarrollo de software estructurado y mantenible, con sólida ba
 * 🍽️ **TheGoodTasteApp:** Aplicación de escritorio desarrollada en **C# (.NET)** enfocada en la gestión comercial, pedidos y control operativo.
 * 🌐 **The Good Taste Web:** Plataforma web complementaria desarrollada con arquitectura MVC / Blade para catálogo y presencia online.
 * 💳 **MiDeudaApp:** Herramienta en C# orientada al seguimiento financiero personal y control de saldos/deudas.
+* 🏎️ **fOnefan:** Plataforma web informativa sobre Fórmula 1, dedicada a fans y a nuevos conocedores de la categoría.
 
 ---
 
