@@ -11,7 +11,7 @@ Me enfoco en el desarrollo de software estructurado y mantenible, con sólida ba
 * **Lenguajes:** Java, C, SQL, Python, Lisp.
 * **Bases de Datos:** SQL, diseño y normalización de esquemas relacionales.
 * **Arquitectura & Metodologías:** Programación Orientada a Objetos (POO), patrones de diseño y trabajo en equipo.
-* **Fundamentos de Ciencias de la Computación:** Algoritmos y estructuras de datos, sistemas operativos, paradigmas funcional (Lisp) y bajo nivel (Assembler).
+* **Fundamentos de Ciencias de la Computación:** Algoritmos y estructuras de datos, sistemas operativos, paradigmas funcional (Lisp).
 * **Redes & Telecomunicaciones:** Comunicación de datos, protocolos de transporte y arquitectura cliente-servidor.
 
 ---
