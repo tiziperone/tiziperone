@@ -18,10 +18,10 @@ Me enfoco en el desarrollo de software estructurado y mantenible, con sólida ba
 
 ### 🚀 Proyectos Destacados
 
-* 🍽️ **TheGoodTasteApp:** Aplicación de escritorio desarrollada en **C# (.NET)** enfocada en la gestión comercial, pedidos y control operativo.
-* 🌐 **The Good Taste Web:** Plataforma web complementaria desarrollada con arquitectura MVC / Blade para catálogo y presencia online.
-* 💳 **MiDeudaApp:** Herramienta en C# orientada al seguimiento financiero personal y control de saldos/deudas.
 * 🏎️ **fOnefan:** Plataforma web informativa sobre Fórmula 1, dedicada a fans y a nuevos conocedores de la categoría.
+* 🍽️ **TheGoodTasteApp:** Aplicación de escritorio desarrollada en **C# (.NET)** enfocada en la gestión comercial, pedidos y control operativo.
+* 💳 **MiDeudaApp:** Herramienta en C# orientada al seguimiento financiero personal y control de saldos/deudas.
+
 
 ---
 
